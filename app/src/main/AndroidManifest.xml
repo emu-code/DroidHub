@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DroidHub">
-        <activity android:name=".MainActivity">
+        <activity android:name=".FilesActivity"></activity>
+        <activity android:name=".UploadActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashScreenTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

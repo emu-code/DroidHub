@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_field_margin">20dp</dimen>
+    <dimen name="text_field_parent">40dp</dimen>
+    <dimen name="box_radius">8dp</dimen>
+</resources>
